@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "63664431109",
+    "project_id": "loginauth-aece0",
+    "storage_bucket": "loginauth-aece0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63664431109:android:ec46a3cd0f5c06199bfc6c",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63664431109-roobpuqq1emjdigrevc49l9hhaj2aqes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "a1dbdb2206f35a715daab7d9d0c90852e51a9f00"
+          }
+        },
+        {
+          "client_id": "63664431109-a70a9c71r9a573h2kk354pih0gck8phb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoi34AOF6KtRgLP76bY-md_YKmDyMDMcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63664431109-a70a9c71r9a573h2kk354pih0gck8phb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63664431109-ledk2roig4g6gvsr8nilc4lrid9gjgh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
